@@ -1,4 +1,4 @@
-// Copyright 2012-16 Turtle Ranch Productions
+// Copyright 2012-16 Turtle Ranch LLC
 // t4t0nk4
 // Ruby extension class for semaphores / shared memory
 //
